@@ -3,4 +3,10 @@ What happens when you initialize a repository? Why do you need to do it?
    It creates the metadata repository .git and starts tracking changes.
 
 
- 
+How is the staging area different from the working directory and the 
+repository? What value do you think it offers? 
+
+    Files in staging area are ready for commit, those in working
+    directory are still being worked and not ready for commit.
+
+

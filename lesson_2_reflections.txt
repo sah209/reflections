@@ -1,0 +1,6 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+   It creates the metadata repository .git and starts tracking changes.
+
+
+ 
